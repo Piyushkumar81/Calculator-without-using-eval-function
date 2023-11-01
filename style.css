@@ -1,0 +1,92 @@
+body {
+	background-color: #0e0e0e;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+	padding-top: 3px;
+	padding-bottom: 7px;
+	margin: 1px auto;
+	width: 500px;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+	background-color: #272727;
+}
+
+.header {
+	margin: 2rem;
+	color: #666;
+}
+
+input {
+	width: 370px;
+	padding: 8px 32px;
+	font-size: 48px;
+	border-radius: 10px;
+	text-align: right;
+
+	background-color: #272727;
+	color: #666;
+}
+
+.buttons {
+	margin: auto;
+	width: 450px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+button {
+	/* padding: 39px; */
+	padding: 25px 39px;
+	font-size: 20px;
+	margin: 8px;
+	max-width: 100px;
+	max-height: 100px;
+	text-align: center;
+	border-radius: 10%;
+	font-weight: 900;
+	background-color: #272727;
+	color: #666;
+}
+
+.Allclear{
+	float: left;
+}
+
+button.active {
+	background-color: green;
+	color: aliceblue;
+}
+
+.Allclear.new{
+	background-color: rgb(163, 62, 62);
+	color: aliceblue;
+}
+
+button.oi{
+	background-color: black;
+	color: aliceblue;
+}
+#clear-c.activ{
+	background-color: black;
+	color: aliceblue;
+}
+.operator.act{
+	background-color: black;
+	color: aliceblue;
+}
+.operator1.act{
+	background-color: black;
+	color: aliceblue;
+}
+.operator2.act{
+	background-color: black;
+	color: aliceblue;
+}
+.operator3.act{
+	background-color: black;
+	color: aliceblue;
+}
